@@ -19,7 +19,7 @@ COLORS:
  }
 
  header {
-   background-image: linear-gradient(to right, #00568c99, #ffffff);
+   background-image: linear-gradient(to right, #00568c, #ffffff);
  }
 
  nav {
@@ -45,7 +45,6 @@ COLORS:
  }
 
  nav ul li a {
-   background-color: #00568c;
    color: #ffffff;
    text-decoration: none;
    font-size: 1.5em;
