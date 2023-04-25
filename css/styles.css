@@ -86,7 +86,7 @@ COLORS:
 
  }
 
-main #container {
+#container {
    padding: 3% 0;
    margin: 0 auto;
    width: 80%;
@@ -130,7 +130,7 @@ h3 {
 footer {
    text-align: center;
    font-size: 1.2em;
-   background-image: linear-gradient(#00568c, #ffffff);
+   background-image: linear-gradient(#00568c, #00568c, #ffffff);
 }
 
 #template {
