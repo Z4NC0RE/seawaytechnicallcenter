@@ -19,8 +19,7 @@ COLORS:
  }
 
  header {
-   background-color: #ffffff;
-   color: #008e66;
+   background-image: linear-gradient(#00568c99, #ffffff);
  }
 
  nav {
@@ -54,11 +53,19 @@ COLORS:
 
  nav ul li:hover {
    background-color: #ffffff;
+   text-decoration: underline;
+   color: black;
+ }
+
+ nav ul li a:hover {
+   background-color: #ffffff;
+   text-decoration: underline;
    color: black;
  }
 
  h1 {
     font-size: 5em;
+    color: #008e66;
  }
 
  blockquote {
@@ -76,6 +83,11 @@ COLORS:
    min-height: 500px;
    font-size: 1.8em;
    background-color: #cccccc;
+}
+
+h3 {
+   font-size: 1.5em;
+
 }
 
 .mainIMG {
