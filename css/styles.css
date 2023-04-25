@@ -45,6 +45,7 @@ COLORS:
  }
 
  nav ul li a {
+   color: #ffffff;
    text-decoration: none;
    font-size: 1.5em;
  }
@@ -55,10 +56,6 @@ COLORS:
    color: black;
  }
 
- nav ul li a:hover {
-   background-color: #ffffff;
-   text-decoration: underline;
-   color: black;
  }
 
  h1 {
