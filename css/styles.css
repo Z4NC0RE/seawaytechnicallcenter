@@ -44,7 +44,8 @@ COLORS:
    margin-top: .8%;
  }
 
- nav ul li a {
+ nav a {
+   color: #ffffff;
    text-decoration: none;
    font-size: 1.5em;
  }
@@ -53,8 +54,6 @@ COLORS:
    background-color: #ffffff;
    text-decoration: underline;
    color: black;
- }
-
  }
 
  h1 {
