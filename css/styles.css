@@ -19,7 +19,7 @@ COLORS:
  }
 
  header {
-   background-image: linear-gradient(to right, #00568c, #00568c , #ffffff);
+   background-image: linear-gradient(#00568c, #00568c , #ffffff);
  }
 
  nav {
@@ -82,7 +82,7 @@ main #container {
    width: 80%;
    min-height: 500px;
    font-size: 1.8em;
-   background-image: linear-gradient(#cccccc, #008e66);
+   background-image: linear-gradient(#cccccc, #cccccc, #008e66);
 }
 
 h3 {
