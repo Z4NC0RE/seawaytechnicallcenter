@@ -117,6 +117,7 @@ h3 {
 .navlogoImg {
    max-height: 300px;
    max-width: 400;
+   float: right;
 }
 
  table {
