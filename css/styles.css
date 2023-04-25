@@ -76,7 +76,7 @@ COLORS:
    width: 80%;
    min-height: 500px;
    font-size: 1.8em;
-   background-color: #cccccc;
+   background-image: linear-gradient(#cccccc, #008e66);
 }
 
 h3 {
@@ -102,3 +102,21 @@ h3 {
 
  }
 
+footer {
+   text-align: center;
+   background-image: linear-gradient(#cccccc, #008e66);
+}
+
+footer a {
+   background-color: #00568c;
+   color: #008e66;
+   padding: 10px;
+   border-radius: 5px;
+   float: right;
+}
+
+footer a:hover {
+   background-color: white;
+   color: black;
+   text-decoration: underline;
+}
