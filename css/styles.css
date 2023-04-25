@@ -19,32 +19,55 @@ COLORS:
  }
 
  header {
-
+   background-color: #ffffff;
+   color: #008e66;
  }
 
  nav {
-
+   background-color: #00568c;
  }
 
  nav ul {
-
+   background-color: #00568c;
  }
 
  nav ul li {
-
+   background-color: #00568c;
+   color: #ffffff;
  }
 
  nav ul li a {
-
+   background-color: #00568c;
+   color: #ffffff;
  }
 
  h1 {
-    
+    font-size: 5em;
  }
 
  blockquote {
 
  }
+
+ main {
+
+ }
+
+#container {
+   padding: 3% 0;
+   margin: 0 auto;
+   width: 80%;
+   min-height: 500px;
+   font-size: 1.8em;
+   background-color: #cccccc;
+}
+
+.mainIMG {
+   max-height: 500px;
+   min-height: 400px;
+   max-width: 600px;
+   min-width: 500px;
+}
 
  table {
 
