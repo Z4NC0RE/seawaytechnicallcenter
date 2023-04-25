@@ -110,6 +110,7 @@ h3 {
 
 footer {
    text-align: center;
+   font-size: 1.2em;
 }
 
 #template {
@@ -117,11 +118,12 @@ footer {
    color: #008e66;
    padding: 10px;
    border-radius: 5px;
-   float: right;
+   font-size: 1.5em;
+   text-align: center;
 }
 
 #template:hover {
-   background-color: #ffffff;
-   color: black;
+   background-color: #008e66;
+   color: #ffffff;
    text-decoration: underline;
 }
