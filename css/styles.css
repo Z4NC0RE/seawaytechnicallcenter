@@ -110,6 +110,11 @@ h3 {
    padding: 10px;
 }
 
+.navlogoImg {
+   max-height: 300px;
+   max-width: 400;
+}
+
  table {
 
  }
