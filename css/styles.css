@@ -82,7 +82,7 @@ main #container {
    width: 80%;
    min-height: 500px;
    font-size: 1.8em;
-   background-image: linear-gradient(#cccccc, #cccccc, #008e66);
+   background-image: linear-gradient(#ffffff, #cccccc, #cccccc, #008e66);
 }
 
 h3 {
