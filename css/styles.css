@@ -19,7 +19,7 @@ COLORS:
  }
 
  header {
-   background-image: linear-gradient(#00568c, #00568c , #ffffff, #00568c);
+   background-image: linear-gradient(#00568c, #00568c , #ffffff, #ffffff, #00568c, #00568c);
  }
 
  .headerLogo {
