@@ -25,20 +25,36 @@ COLORS:
 
  nav {
    background-color: #00568c;
+   padding: 5px 0;
+   width: 100%;
+   min-height: 50px;
  }
 
  nav ul {
    background-color: #00568c;
+   display: block;
+   text-align: center;
  }
 
  nav ul li {
    background-color: #00568c;
    color: #ffffff;
+   display: inline-block;
+   list-style: none;
+   width: 15%;
+   margin-top: .8%;
  }
 
  nav ul li a {
    background-color: #00568c;
    color: #ffffff;
+   text-decoration: none;
+   font-size: 1.5em;
+ }
+
+ nav ul li:hover {
+   background-color: #ffffff;
+   color: black;
  }
 
  h1 {
