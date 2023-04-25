@@ -19,7 +19,7 @@ COLORS:
  }
 
  header {
-   background-image: linear-gradient(#00568c99, #ffffff);
+   background-image: linear-gradient(to right, #00568c99, #ffffff);
  }
 
  nav {
