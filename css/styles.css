@@ -114,6 +114,18 @@ h3 {
    padding: 10px;
 }
 
+.facebookBtn {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #00568c;
+  color: #ffffff;
+}
+
+.facebookBtn:hover {
+  background-color: #cccccc;
+  color: black;
+}
+
 .navlogoImg {
    max-height: 300px;
    max-width: 300;
