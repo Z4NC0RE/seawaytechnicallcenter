@@ -121,7 +121,38 @@ h3 {
 }
 
  table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: initial;
+    border-spacing: 1em;
+    border-color: black;
+ }
 
+ tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+ }
+
+ input {
+  height: 2em;
+  width: 17em;
+  border-radius: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 1em;
+  font-weight: bold;
+  background-color: #00568c;
+  color: #ffffff;
+  border: 5px double black;
+ }
+
+ .frmButton {
+  width: 10em;
+ }
+
+ .frmButton:active {
+  background-color: #cccccc;
  }
 
  #colors {
